@@ -1,0 +1,3 @@
+bucket = "terraform-icg"
+key    = "infrastructure/base/terraform.tfstate"
+region = "us-east-1"
